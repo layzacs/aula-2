@@ -1,4 +1,4 @@
 # Trabalho Colaborativo
 
 - Layza
-- Pedro
+- Pedro Pretto Martins
