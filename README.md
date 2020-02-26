@@ -1,4 +1,4 @@
 # Trabalho Colaborativo
 
-- Layza
+- Layza Cristini
 - Pedro
